@@ -113,56 +113,11 @@ app/
 
 # 📸 Screenshots
 
----
-
-## 🔗 Connection Screen
-
-Connect drone using UDP/TCP.
-
 <p align="center">
-  <img src="screenshots/connection_screen.jpg" width="300"/>
+  <img src="https://github.com/mdAkhtar21/DroneTelemetry/blob/master/BatteryConnection.jpeg" width="250"/>
+  <img src="https://github.com/mdAkhtar21/DroneTelemetry/blob/master/ConnectionScreen.jpeg" width="250"/>
+  <img src="https://github.com/mdAkhtar21/DroneTelemetry/blob/master/DashboardScreen.jpeg" width="250"/>
 </p>
-
----
-
-## 📊 Dashboard Screen
-
-Live telemetry monitoring dashboard.
-
-<p align="center">
-  <img src="screenshots/dashboard_screen.jpg" width="300"/>
-</p>
-
----
-
-## 📡 Connected State
-
-Shows successful MAVLink connection.
-
-<p align="center">
-  <img src="screenshots/connected_state.jpg" width="300"/>
-</p>
-
----
-
-## ❌ Error State
-
-Handles invalid IP and connection errors.
-
-<p align="center">
-  <img src="screenshots/error_state.jpg" width="300"/>
-</p>
-
----
-
-## 🔄 Reconnecting State
-
-Automatic reconnect handling.
-
-<p align="center">
-  <img src="screenshots/reconnecting_state.jpg" width="300"/>
-</p>
-
 ---
 
 # 🚀 Getting Started
