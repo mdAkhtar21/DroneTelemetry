@@ -125,7 +125,7 @@ app/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/DroneTelemetryViewer.git
+git clone https://github.com/mdAkhtar21/DroneTelemetry.git
 ```
 
 ---
